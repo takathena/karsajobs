@@ -1,0 +1,8 @@
+[submodule "karsajobs-backend"]
+	path = karsajobs-backend
+	url = https://github.com/takathena/a433-microservices.git
+	branch = karsajobs
+[submodule "karsajobs-frontend"]
+	path = karsajobs-frontend
+	url = https://github.com/takathena/a433-microservices.git
+	branch = karsajobs-ui
